@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: auto;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: poppins;
+    
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: rgb(119, 69, 213);
+    color: rgb(229, 230, 232);
+}
+
+header nav a{
+    color: azure;
+    margin-right: 30px;
+    font-size: 500;
+}
+
+header div.sign-in-up button{
+    background-color: ;
+}
